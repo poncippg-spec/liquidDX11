@@ -1,0 +1,37 @@
+# ─── Build output ────────────────────────────────────────────────
+Release/
+Debug/
+x64/
+.vs/
+*.obj
+*.pdb
+*.idb
+*.ipdb
+*.iobj
+*.ilk
+*.exe
+*.recipe
+*.log
+*.tlog
+*.tlog/
+
+# ─── Visual Studio user/state files ─────────────────────────────--
+*.user
+*.suo
+*.aps
+*.vcxproj.FileListAbsolute.txt
+
+# ─── Dear ImGui runtime state ──────────────────────────────────---
+imgui.ini
+
+# ─── App runtime config / presets (generated next to the exe) ─────
+glass.cfg
+glass.cfg.bak
+glass_preset_*.cfg
+
+# ─── Recordings / capture artifacts ──────────────────────────────-
+glass_recording.mp4
+glass_ffmpeg_log.txt
+
+# ─── Stray notes / scratch ───────────────────────────────────────
+New Text Document*.txt
