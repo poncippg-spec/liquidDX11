@@ -26,5 +26,6 @@ Makefile text eol=lf
 *.plist text eol=lf
 
 *.png binary
+*.gif binary
 *.ttf binary
 *.lib binary
